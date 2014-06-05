@@ -1,0 +1,110 @@
+ html{
+ 	margin:65px 50px;
+  background:#D0D9D4;
+ 
+ }
+ #menuhead{
+ margin-left:80px;
+  margin-top:-60px;
+ 
+ }
+ body{
+margin:10px;
+  background:#D0D9D4;
+ 
+ color:#fff;
+ padding:0px;
+ font-size;12px;
+ 
+  }
+   #title img
+  {
+width:100px;
+  height:60px;
+  
+  }
+  #title
+  {
+  background:#F0F6F7;
+  color:#F0F6F7;
+  padding:10px;
+  border-radius:5px;
+  height:60px;
+  
+  }
+    #title ul{
+	padding:0px;
+	margin-left:25px;
+	list-style:none;
+	
+	}
+
+	input{
+	background:white;
+	color:5px solid black;
+	padding:10px;
+	border-radius:15px;
+	border:0px;
+	margin:5px 0px;
+	}
+	   #title ul li{
+	   float:left;
+	   padding:5px 0px;
+	   margin:10px;
+	   }
+	   .clear{
+	   clear:both;
+	   }
+	    #title ul li a{
+padding:5px;
+background:#ccc;
+color:#333;
+text-decoration:none;
+border-radius:5px;
+		
+		
+		}
+		#chatlogs
+		{
+width:60%;
+height:500px;
+border:2px solid black;
+		
+		}
+		
+				.box1
+		{
+		
+		background:white;
+		color:black;
+		border-radius:5px;
+		margin:10px 0px;
+		text-decoration:none;
+		
+		}
+		
+		.box
+		{
+		
+		background:black;
+		color:white;
+		border-radius:5px;
+		margin:10px 0px;
+		text-decoration:none;
+		
+		}
+		    #title ul li a:hover{
+			background:yellow;
+			color:white;
+			}
+			.container{
+		  background:white;
+  color:white;
+			margin:10px 0px;
+			border-radius:5px;
+			width:95%;
+			height:900px;
+			padding:25px;
+			
+			}
+		
