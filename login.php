@@ -29,6 +29,8 @@
 </table>
 
 </form>
+
+// i assume you already have database and tables with few records ready to use before you use these php codes.
  <?php 
   include("connect.php");
  if(isset($_POST['sub'])){
