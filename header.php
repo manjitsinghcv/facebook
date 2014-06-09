@@ -11,11 +11,7 @@
  <li><a href='profile.php' >Myprofile</a></li>
   <li><a href='message.php' >Messages</a></li>
      <li><a href='gallery.php' >Gallery</a></li>
-     <li><a href='events.php' >Events & News</a></li>
-  
-  <li><a href='req.php' >Friend request</a></li>
-   <li><a href='friends.php' >friends</a></li>
-    <li><a href='members.php' >members</a></li>
+    
 	 <li><a href='logout.php' >logout</a></li>
 <?php 
 }else{

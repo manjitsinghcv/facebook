@@ -1,7 +1,7 @@
 <?php
 
 mysql_connect("localhost","root","password");
-mysql_select_db("Db_name");
+mysql_select_db("databasename");
 
 
 
